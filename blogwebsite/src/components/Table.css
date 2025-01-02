@@ -1,0 +1,16 @@
+#t1 {
+    background-color: rgb(8, 163, 8);
+}
+#t2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bolder;
+    color: aliceblue;
+}
+#t3 {
+    background-color: rgb(193, 247, 172);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    /* text-align: center; */
+}
